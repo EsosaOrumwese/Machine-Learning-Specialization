@@ -5,3 +5,5 @@ This repo contains coursework done while on the [Machine Learning Specialization
 * Course 1: Supervised Machine Learning: Regression and Classification
 * Course 2: Advanced Learning Algorithms
 * Course 3: Unsupervised Learning, Recommenders, Reinforcement Learning
+
+<img src="specialization_certificate.jpg" alt="Specialization Certificate">
